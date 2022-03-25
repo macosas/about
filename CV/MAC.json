@@ -1,0 +1,50 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "David",
+      "surnames": "Nicolás Alvarez",
+      "title": "Cloud Security Architect",
+      "description": "Son las pasiones las que te llevan al plano profesional.\n\nEn el año 2000 comencé simultaneando mis estudios en la carrera de Informática Superior de la UNED con mi carrera profesional, pero al final del curso de ese año, entendí que mi vida no giraría entorno a los estudios.\n\nMi primeros pasos comenzaron desde el soporte técnico in-situ en las oficinas de la empresa Taller de Editores, participada por Vocento. Se dedicaban a las noticias online de la agencia Colpisa, donde había que ser los primeros y las comunicaciones infalibles. Mis tareas se centraron en la parte más editorial del soporte a equipos de trabajo en MacOS, tanto de las oficinas de Madrid, como de Barcelona y en los países de Latam donde SM tiene presencia.\n\nEn 2003 mi empresa me cambió de cliente, y comencé en mi actual empresa, Ediciones SM. Durante 3 años estuve de soporte técnico usuario y administrador de la plataforma MacOS X Server y Linux, centrados en el Open Source. Apache, PHP y la terminal eran mi segunda piel.\n\nEn 2006, monté mi propia empresa, Taiko Solutions SL, que mi socio sigue manteniendo. Intentamos dar un giro a nuestra careras centrados en la administración de servidores en remoto y el desarrollo de sites en PHP, Apache, Debian, en un servidor dedicado. Hacíamos la consultoría a los clientes y planteábamos soluciones a sus problemas.\nDurante este tiempo, mantuve el contacto profesional con Ediciones SM a tiempo parcial, para tareas de administración de sistemas, soporte de su plataforma propia de sistema editorial, scripts, bases de datos...\n\nEn el 2008 en SM surgió la posibilidad de volver a tener vida, con un horario cómodo y fines de semana libre. En mi propia empresa, eso no era posible.\n\nFue entonces que, contratado por Ediciones SM, comencé mi carrera de SysAdmin. Enfocado al principio en el mantenimiento del sistema editorial, posteriormente la migración a soluciones comerciales y puesta en marcha de plataformas OpenSource basadas en Linux. RedHat y CentOS.\n\nEn 2010 mi rol se hace puramente SysAdmin para servir a todas las áreas de la empresa, plataformas Windows y propietarias incluidas. Comunicaciones, configuraciones en remoto para las oficinas externas españolas y de Latam.\n\nEn 2012 ponemos una pica en el Cloud con Azure, con nuestra plataforma de enseñanza online. Pero será en 2014 cuando migramos casi todos los sistemas a AWS.\n\nDesde entonces, con contacto directo con AWS España, un TAM y el support, damos soporte, monitorización a nuestra plataforma educativa en España y Latam.\n\nSiempre con disponibilidad, buen trato  y atento a aprender de todos para resolver incidencias, problemas y plantear nuevas infraestructuras y soluciones. Me gusta hablar con las personas que tienen dudas y problemas para intentar dar solución, aunque por herramientas de ticketing, como OTRS o Jira, hemos tenido que hacerlo visible y cuantificable.\n\nEn esta carrera debes estar aprendiendo a cada momento. Sin olvidar o apuntar lo que ya conoces, para buscarlo en caso de necesidad. Me gusta tenerlo todo apuntado y registrado, para no cometer los mismos errores. Evernote es mi brazo derecho.\n\nDesde hace años quiero desarrollar una faceta DevOPS. Pongo todo mi empeño en aprender, en las pocas horas libres que tengo al acabar mi jornada de trabajo y disfrutar con mi hijo de poco más de 2 años y medio.\n\n",
+      "avatar": {
+        "alt": "jVhMAttM_400x400.jpeg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/25/ea1dc66d-608c-4b06-9710-fffe2f219343_jvhmattm_400x400.jpeg"
+      },
+      "location": {
+        "notes": "Madrid, Community of Madrid, ES"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/david-nicolas-alvarez-b80042192/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/macosas/"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/macosas"
+      },
+      {
+        "type": "other",
+        "URL": "https://www.macosas.com/"
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/david-nicolas-alvarez-b80042192/"
+        }
+      ]
+    }
+  }
+}
