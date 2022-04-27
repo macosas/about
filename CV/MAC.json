@@ -20,10 +20,6 @@
     },
     "relevantLinks": [
       {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/david-nicolas-alvarez-b80042192/"
-      },
-      {
         "type": "github",
         "URL": "https://github.com/macosas/"
       },
@@ -32,8 +28,66 @@
         "URL": "https://twitter.com/macosas"
       },
       {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/david-nicolas-alvarez-b80042192/"
+      },
+      {
         "type": "other",
         "URL": "https://www.macosas.com/"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "English"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "PHP",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "AWS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Linux",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Azure",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Jira",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "Unix",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SIEM",
+          "type": "technology"
+        }
       }
     ]
   },
